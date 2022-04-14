@@ -1,9 +1,13 @@
-# unity-mlagent-master
-This project was created as part of the MLAgent study. Feel free to use it!  
+# unity-mlagents-master
+This project was created as part of the MLAgents study. Feel free to use it!  
 
 ## Preparation
-・Install ML Agent on UnityEditor  
+・Install ML-Agents on UnityEditor  
 ・Install Python on your computer  
+
+## Overview of reinforcement learning and algorithms
+
+## Basic operation of ML Agents
 
 # Referene
 https://github.com/Unity-Technologies/ml-agents　　

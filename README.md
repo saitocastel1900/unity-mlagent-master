@@ -7,7 +7,7 @@ This project was created as part of the MLAgents study. Feel free to use it!
 
 ## Overview of reinforcement learning and algorithms
 
-## Basic operation of ML Agents
+## Basic operation of ML-Agents
 
 # Referene
 https://github.com/Unity-Technologies/ml-agents　　

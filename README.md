@@ -10,5 +10,5 @@ This project was created as part of the MLAgents study. Feel free to use it!
 ## Basic operation of ML-Agents
 
 # Referene
-https://github.com/Unity-Technologies/ml-agents　　
+https://github.com/Unity-Technologies/ml-agents  
 www.amazon.co.jp/dp/4862464823

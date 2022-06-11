@@ -1,6 +1,7 @@
 # unity-mlagents-master
-このプロジェクトは、MLAgentsの研究の一環として作成されました。ご自由にお使いください。 
-＊注意　公式の推奨バージョンはpython:3.6~3.7です。　3.9~はmlagentが動作しないようです。
+このプロジェクトは、MLAgentsの研究の一環として作成されました。ご自由にお使いください  
+＊注意　公式の推奨バージョンはpython:3.6～3.7です。　3.9以降はmlagentが動作しないようです。  
+
 https://user-images.githubusercontent.com/96648305/163731225-a5bb948d-a25e-4385-9ab5-6275beafcd6c.mp4
 
 ## 準備

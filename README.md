@@ -19,6 +19,7 @@ https://user-images.githubusercontent.com/96648305/163731225-a5bb948d-a25e-4385-
 -RollerAgentが床の下に落下した場合、+-0.0  
 ### 決定
 -10ステップ  
+-BehaviourParametersで観察と行動を決定  
 
 ## 強化学習の概要とアルゴリズム
 

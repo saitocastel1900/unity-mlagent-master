@@ -1,15 +1,28 @@
 # unity-mlagents-master
-This project was created as part of the MLAgents study. Feel free to use it!  
+このプロジェクトは、MLAgentsの研究の一環として作成されました。ご自由にお使いください。 
 
 https://user-images.githubusercontent.com/96648305/163731225-a5bb948d-a25e-4385-9ab5-6275beafcd6c.mp4
 
-## Preparation
-・Install ML-Agents on UnityEditor(MLAgents need to be prepared on the PC as well.)  
-・Install Python on your computer  
+## 準備
+・UnityEditorにML-Agentsをインストールする 
+・PythonをPCにインストール   
+・BehaviourParametersで行動を決定  
 
-## Overview of reinforcement learning and algorithms
+## Hello ML-Agents
+### 観察
+-Targetの座標  
+-RollerAgentの座標と速度  
+### 行動
+-RollerAgentに与える力  
+### 報酬
+-RollerAgentがTargetの座標に到着時、+1.0  
+-RollerAgentが床の下に落下した場合、+-0.0  
+### 決定
+-10ステップ  
 
-## Basic operation of ML-Agents
+## 強化学習の概要とアルゴリズム
+
+## ML-Agentsの基本操作
 
 
 # Referene
